@@ -24,9 +24,6 @@ public class pair{
                }
             }
          }
-         System.out.println(Result);
-         
-         
       }
       
       catch ( FileNotFoundException fnfe){
